@@ -52,6 +52,11 @@ The **MetroGoods Stores dataset** contains the following columns:
   **Tool Used: Power Query**
   
   <img width="1915" height="1034" alt="image" src="https://github.com/user-attachments/assets/1aeaef58-2449-492d-b643-ec13648e7078" />
+  
+
+
+
+
 
  ### Steps Performed
 1. Renamed Column <br>
