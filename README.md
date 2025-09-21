@@ -8,9 +8,21 @@ The MetroGoods Sales Analysis project was designed to answer the following key b
 *  What are the peak sales months, and how do they compare to low-performing months? 
 * Which customer demographic segments (age group, gender) spend the most? 
 * What is the average purchase amount per transaction and per customer?
-* How do sales vary by day of the week? 
 * Which specific product categories are top sellers and which are underperforming?
 
+## What insights will help solve the problem?
+### Sales trends over time (monthly and seasonal performance):
+Understanding how sales fluctuate month-to-month and across different seasons
+will help MetroGoods identify peak demand periods and slow months
+
+### Customer demographic insights (age and gender):
+Analyzing purchase patterns by demographic groups reveals who the key
+customers are and what they prefer.
+
+###  Category-level performance to inform marketing focus and stock management:
+Evaluating the performance of different product categories (e.g., Electronics,
+Clothing, Beauty) allows management to see which categories are driving
+revenue and which may need a different approach.
   ## Dataset Overview
 ### 📂 Dataset Description  
 
