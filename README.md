@@ -170,13 +170,6 @@ Key Insights from Metro Goods Dataset
 
   ## Recommendations for Metro Goods Stores
 
-### Customer Retention & Loyalty
-
- * Launch a marketing strategy (loyalty points, cashback, or discounts on repeat purchases) to encourage customers to return.
-
-* Implement personalized offers (e.g., category-based discounts for Beauty buyers, bundles for Clothing/Electronics).
-
-* Introduce membership perks (exclusive sales, early access to new products).
 
 ### Category Strategy
 
