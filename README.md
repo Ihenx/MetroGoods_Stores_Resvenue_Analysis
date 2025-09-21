@@ -193,7 +193,7 @@ Key Insights from Metro Goods Dataset
 
 ### Seasonality & Pricing
 
-* Capitalize on May’s peak sales period with planned major sales events (e.g., “Metro Mega Sale Month”).
+* Capitalize on May’s peak sales period with planned major sales events .
 
 * Address September’s low sales with back-to-school discounts, festival promotions, or clearance events.
 
