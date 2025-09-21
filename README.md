@@ -10,6 +10,15 @@ The MetroGoods Sales Analysis project was designed to answer the following key b
 * What is the average purchase amount per transaction and per customer?
 * Which specific product categories are top sellers and which are underperforming?
 
+  ## Who are the stakeholders?
+* Sales Department – to identify high- and low-performing Product Categories and
+boost overall sales.
+* Finance Department – to track revenue, average purchase values, and
+profitability.
+* Operations Management –Which includes the CEO to allocate resources effectively across stores and
+peak sales periods.
+
+
 ## What insights will help solve the problem?
 ### Sales trends over time (monthly and seasonal performance):
 Understanding how sales fluctuate month-to-month and across different seasons
