@@ -58,6 +58,7 @@ The **MetroGoods Stores dataset** contains the following columns:
 
 
 
+
  ### Steps Performed
 1. Renamed Column <br>
 **Action:** Changed the column name  Amount to  Sales.<br>
